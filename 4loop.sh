@@ -6,5 +6,5 @@ do
 echo $a
 done
 echo loop ends
-
+echo "I love this script"
 
